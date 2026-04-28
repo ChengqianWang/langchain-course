@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a58a7c1-ce18-44f5-ba99-7633902945fd" name="Changes" comment="change">
-      <change afterPath="$PROJECT_DIR$/2_agent_loop_raw_function_calling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_raw_react_prompt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/langchain-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/langchain-course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_agent_loop_langchain_tool_calling.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_agent_loop_langchain_tool_calling.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +101,8 @@
       <workItem from="1777226256092" duration="14621000" />
       <workItem from="1777241177615" duration="177000" />
       <workItem from="1777241406737" duration="986000" />
+      <workItem from="1777315320226" duration="3809000" />
+      <workItem from="1777371265691" duration="3094000" />
     </task>
     <task id="LOCAL-00001" summary="new env">
       <option name="closed" value="true" />
